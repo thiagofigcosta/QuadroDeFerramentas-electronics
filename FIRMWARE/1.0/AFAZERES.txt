@@ -1,0 +1,16 @@
+RFID
+
+|---------------------------------------|
+|protocolo de comunicacao		|
+|---------------------------------------|
+|					|
+|caractere de inicio			|
+|inicio de lista			|
+|	string				|
+|inicio de lista			|
+|	string				|
+|variavel				|
+|	ferramentas (1 para disponivel)	|
+|	alarme				|
+|caractere de fim			|
+|---------------------------------------|

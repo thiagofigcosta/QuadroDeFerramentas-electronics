@@ -1,0 +1,39 @@
+grupo:
+
+	bonecaaaa
+	rataooooo
+	cabeleira
+	iaooooooo
+	camaraooo
+	sudariooo
+
+projeto:
+
+
+
+
+
+brainstorm:
+
+	(1)display de leds em alta rotacao
+	(?)robo sexual
+	(X)bafometro empresarial
+	( )sensor de temperatura industrial
+	( )carrinho que limpa o chao
+	???problema do senai???
+	(V)Controle de patrimonio
+	( )
+	( )
+	( )
+	( )
+	( )
+	( )
+	( )
+	( )
+	( )
+	( )
+	( )
+	( )
+	( )
+	( )
+	( )

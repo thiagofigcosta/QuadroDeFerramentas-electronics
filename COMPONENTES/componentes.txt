@@ -1,0 +1,22 @@
+-------------------------------------
+[ ]10x reed switch
+[V]02x buzzer
+[ ]02x pic 18f4550
+[ ]01x pic 18f2550
+[2]04x cap 100n
+[V]02x 7805
+[1]03x cristais 20MHz
+[ ]06x cap 22p
+[ ]01x transmissor RF	MODULO
+[ ]01x receptor RF	MODULO
+[ ]01x display lcd 16x2
+[ ]01x display lcd 20x4
+[ ]01x modulo RFID
+[ ]01X led infravermelho
+[V]01X recptor infravermelho
+-------------------------------------
+[V]32x leds parte superior        	[SMD]
+[V]15x leds parte lateral direita	[SMD]
+[V]15x leds parte lateral esquerda	[SMD]
+[V]62x resistores 330           	[SMD]
+-------------------------------------
